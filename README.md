@@ -1,3 +1,6 @@
+<img width="2000" height="600" alt="1000055692" src="https://github.com/user-attachments/assets/002d05b5-0c94-4083-9ca0-0cb651a168f1" />
+<img width="2000" height="600" alt="1000055692" src="https://github.com/user-attachments/assets/61f61ee5-3137-4506-bf18-d1bea872529c" />
+<img width="2000" height="600" alt="1000055692" src="https://github.com/user-attachments/assets/0584aa4c-253d-437c-be30-e1bcbaace297" />
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sweta</h1>
 <h3 align="center">Future AI Engineer | Data Science Enthusiast | Tech Explorer</h3>
