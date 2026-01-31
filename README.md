@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sweta</h1>
 <h3 align="center">Future AI Engineer | Data Science Enthusiast | Tech Explorer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+AI+Student;Building+Intelligent+Systems;Future+Tech+Leader;Always+Learning+🚀&center=true&width=500&height=45">
+  
 </p>
 
 ---
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweta-126-ux&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweta-126-ux&theme=tokyonight" /
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🧩 Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-126-ux&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-126-ux&layout=compact&theme=tokyonight" /
 </p>
 
 ---
