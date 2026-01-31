@@ -55,7 +55,7 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sweta-126-ux&show_icons=true&theme=tokyonight" />
+  
 </p>
 
 <p align="center">
@@ -66,8 +66,11 @@
 
 ## 🧩 Top Languages  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-126-ux&layout=compact&theme=tokyonight" /
+- 🐍 Python  
+- 🌐 HTML | CSS | JavaScript  
+- 🗄️ SQL  
+- 🔧 Git & GitHub
+  
 </p>
 
 ---
