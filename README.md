@@ -54,18 +54,6 @@ Goal:
 
 ---
 
-## 🦋 Butterfly Garden
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="120">
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="120">
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120">
-
-</div>
-
 ---
 
 ## 🚀 Tech Stack
@@ -186,24 +174,7 @@ Goal:
 
 ✔ Debugging
 
----
 
-## 🌸 Featured Projects
-
-### 🦢 SWAN
-
-A digital memory platform where memories float forever.
-
-Features:
-
-- Photos
-- Videos
-- Voice Notes
-- Letters
-- Beautiful Aesthetic Design
-- Memory Gifts
-
----
 
 ### 📦 FlipTrack
 
