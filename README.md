@@ -1,3 +1,4 @@
+<img width="2000" height="600" alt="Linldin" src="https://github.com/user-attachments/assets/786c226f-6454-4004-8e17-d64b3f7191a2" />
 <div align="center">
 
 <img src="./assets/banner.png" width="100%" alt="Sweta Banner"/>
@@ -51,9 +52,6 @@ Learning:
 Goal:
   Become a Full Stack Developer and Game Developer
 ```
-
----
-
 ---
 
 ## 🚀 Tech Stack
