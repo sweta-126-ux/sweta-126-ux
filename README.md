@@ -1,268 +1,283 @@
-<img width="2000" height="600" alt="Linldin" src="https://github.com/user-attachments/assets/786c226f-6454-4004-8e17-d64b3f7191a2" />
+
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Sweta Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=🦢%20SWETA%20PANDEY&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=gradient"/>
+
+# 🌷 Welcome to My Lavender Garden 🌷
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=26&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=900&lines=BCA+Data+Science+%26+AI+Student;Open+Source+Contributor;Building+Dreams+Through+Code;Future+Game+Developer;Creator+of+Memory-Based+Experiences"/>
+
+### ✨ Dream • Build • Learn • Repeat ✨
 
 </div>
-
-<br>
-
-<h1 align="center">
-  Hi 👋, I'm Sweta
-</h1>
-
-<h3 align="center">
-💻 BCA Data Science & AI Student • Open Source Contributor • Aspiring Game Developer • Web Developer
-</h3>
 
 ---
 
-<div align="center">
-
-🦋 🦋 🦋
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="150"/>
-
-</div>
-
-## 🌷 About Me
+## 🦢 The Story So Far
 
 ```yaml
-Name: Sweta
-Education: BCA (Data Science & AI)
-University: ICFAI University Jharkhand
-Year: First Year
-Location: India
+name: Sweta Pandey
 
-Current Focus:
-  - Open Source Contributions
-  - React Development
-  - Game Development
-  - UI/UX Design
-  - Data Science & AI
+role: Student Developer
 
-Learning:
+education:
+  - BCA Data Science & AI
+
+university:
+  - ICFAI University Jharkhand
+
+currently_learning:
   - React
   - Node.js
-  - MongoDB
-  - TypeScript
-  - Prisma
   - Supabase
+  - Full Stack Development
+  - AI & Data Science
 
-Goal:
-  Become a Full Stack Developer and Game Developer
+mission:
+  - Build meaningful products
+  - Contribute to Open Source
+  - Create beautiful digital experiences
+
+dream_project:
+  - SWAN 🦢
 ```
----
-
-## 🚀 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,figma" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,prisma" />
-</p>
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva,blender" />
-</p>
 
 ---
 
-## 🌟 Open Source Experience
+# 🎮 Character Card
 
-✨ Contributed to open-source projects
+<table>
+<tr>
+<td width="50%">
 
-✨ Worked with Git and GitHub workflows
+### 🧠 Intelligence
+████████░░
 
-✨ Reviewed pull requests
+### 💻 Coding
+███████░░░
 
-✨ Fixed bugs and UI issues
+### 🎨 Creativity
+██████████
 
-✨ Collaborated with developers
+### 🚀 Learning
+█████████░
 
-✨ Improved application performance
+### ⚔️ Problem Solving
+███████░░░
 
-✨ Learned professional software development practices
+### 🌷 Aesthetic Energy
+██████████
 
----
+</td>
 
-## 💻 Development Skills
+<td width="50%">
 
-### Frontend Development
+<img src="https://github-readme-stats.vercel.app/api?username=sweta-126-ux&show_icons=true&theme=transparent&hide_border=true"/>
 
-✔ Responsive Web Design
-
-✔ React Components
-
-✔ State Management
-
-✔ UI Development
-
-✔ Accessibility
-
-✔ Performance Optimization
-
----
-
-### Backend Development
-
-✔ REST APIs
-
-✔ Database Integration
-
-✔ Authentication
-
-✔ CRUD Operations
-
-✔ Prisma ORM
-
-✔ Supabase
+</td>
+</tr>
+</table>
 
 ---
 
-### Testing Skills
+# 🏆 Achievement Gallery
 
-✔ Functional Testing
-
-✔ Regression Testing
-
-✔ UI Testing
-
-✔ Bug Reporting
-
-✔ Test Case Writing
-
-✔ User Acceptance Testing
-
-✔ Cross Browser Testing
-
-✔ Feature Validation
+| Achievement | Status |
+|------------|---------|
+| 🌟 Open Source Contributor | ✅ |
+| 🎓 BCA DS & AI Student | ✅ |
+| 🌐 Full Stack Explorer | 🔄 |
+| 🤖 AI Explorer | 🔄 |
+| 🎮 Future Game Developer | 🔄 |
+| 🦢 SWAN Creator | ⭐ |
+| 💼 Internship Hunter | 🎯 |
 
 ---
 
-## 🎮 Game Development Skills
+# 🗺️ Current Quests
 
-✔ Game Design Principles
+## 🦢 Main Quest
 
-✔ Storyboarding
+### SWAN
 
-✔ Character Design Concepts
+A memory-sharing platform where memories float forever through:
 
-✔ UI Design for Games
-
-✔ Asset Management
-
-✔ Game Testing
-
-✔ Gameplay Analysis
-
-✔ Debugging
-
-
-
-### 📦 FlipTrack
-
-Inventory Management System
-
-Features:
-
-- Inventory Tracking
-- Market Price Analysis
-- Sales History
-- Dashboard Analytics
-- User Management
+- Photos
+- Videos
+- Voice Notes
+- Letters
+- Meaningful Experiences
 
 ---
 
-### 🤖 AI & Data Science Projects
+## ⚔️ Side Quests
 
-- Data Analysis
-- Machine Learning Experiments
-- AI Applications
-- Data Visualization
+☑ Learn React
+
+☑ Learn Node.js
+
+☑ Build Full Stack Projects
+
+☑ Explore AI & Data Science
+
+☑ Improve UI/UX Skills
+
+☑ Contribute to Open Source
+
+☑ Build Indie Games
 
 ---
 
-## 📊 GitHub Statistics
+# 🌸 Featured Projects
+
+## 🦢 Memory Universe
+
+### 🌷 Memori
+
+A platform focused on preserving meaningful memories.
+
+### 🌙 MeetOnMemory
+
+Interactive memory-sharing experiences.
+
+---
+
+## 🎵 Rhythma
+
+Health and wellness project designed with accessibility and user experience in mind.
+
+---
+
+## 📦 FlipTrack
+
+Inventory management and tracking platform.
+
+---
+
+## 🤖 Repo Sage
+
+Repository intelligence and productivity project.
+
+---
+
+## 🐾 Desktop Pet
+
+Interactive desktop companion application.
+
+---
+
+## ⭐ Catch The Falling Stars
+
+Creative frontend game project.
+
+---
+
+# 🌸 Tech Garden
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sweta-126-ux&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sweta-126-ux&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,supabase,python,git,github,vscode,figma"/>
 
 </div>
+
+---
+
+# 🌷 Skill Tree
+
+```text
+Frontend Development     ████████░░ 80%
+
+React                    ███████░░░ 70%
+
+Node.js                  █████░░░░░ 50%
+
+Supabase                 █████░░░░░ 50%
+
+AI & Data Science        ██████░░░░ 60%
+
+UI/UX Design             █████████░ 90%
+
+Open Source              ███████░░░ 70%
+
+Game Development         ██████░░░░ 60%
+```
+
+---
+
+# 📊 GitHub Realm
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sweta-126-ux&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sweta-126-ux&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-126-ux&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🦋 Developer Journey
+
+```text
+🌱 Started Learning Programming
+
+⬇
+
+🌸 Built Personal Projects
+
+⬇
+
+🌐 Started Open Source Contributions
+
+⬇
+
+🤖 Exploring AI & Data Science
+
+⬇
+
+🦢 Building Memory-Based Experiences
+
+⬇
+
+🎮 Future Indie Game Developer
+```
+
+---
+
+# ☕ Fun Facts
+
+🌷 Loves lavender aesthetics
+
+🦢 Obsessed with meaningful digital experiences
+
+🎮 Interested in game development
+
+🎨 Loves UI/UX design
+
+🤖 Exploring AI and Data Science
+
+✨ Believes technology should feel human
+
+📖 Enjoys storytelling and creativity
+
+---
+
+# 🌙 Daily Motto
+
+> "Every great project starts as a tiny idea."
+
+---
+
+<div align="center">
+
+## 🦋 Thanks for Visiting My Garden
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=C8A2C8&center=true&vCenter=true&width=600&lines=Keep+Learning+🌷;Keep+Building+✨;Keep+Dreaming+🦢"/>
 
 <br>
 
-<div align="center">
+🦋 🌷 🦢 ✨ 🌙
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-126-ux&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sweta-126-ux&theme=algolia&margin-w=10"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- React Advanced Concepts
-- TypeScript
-- Node.js
-- MongoDB
-- Open Source Collaboration
-- Game Development
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/sweta-126-ux">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 🦋 Thanks for Visiting My Profile 🦋
-
-<img src="https://komarev.com/ghpvc/?username=sweta-126-ux&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
-<br><br>
-
-✨ "Building beautiful things with code and creativity." ✨
-
-</div>
-
+</div><img width="2000" height="600" alt="Linldin" src="https://github.com/user-attachments/assets/87cc33f6-eb6e-4816-8a5d-95bbbac86b82" />
