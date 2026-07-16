@@ -5,7 +5,7 @@
 
 # 🌷 Welcome to My Lavender Garden 🌷
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=26&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=900&lines=BCA+Data+Science+%26+AI+Student;Open+Source+Contributor;Building+Dreams+Through+Code;Future+Game+Developer;Creator+of+Memory-Based+Experiences"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C8A2C8&center=true&width=500&lines=Keep+Learning;Keep+Building;Keep+Dreaming"/>
 
 ### ✨ Dream • Build • Learn • Repeat ✨
 
@@ -210,7 +210,7 @@ Game Development         ██████░░░░ 60%
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sweta-126-ux&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sweta-126-ux&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sweta-126-ux&theme=transparent&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-126-ux&layout=compact&theme=transparent&hide_border=true"/>
 
