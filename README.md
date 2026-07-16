@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="2000" height="600" alt="Linldin" src="https://github.com/user-attachments/assets/87cc33f6-eb6e-4816-8a5d-95bbbac86b82" =🦢%20SWETA%20PANDEY&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=gradient"/>
+<img width="2000" height="600" alt="Linldin" src="https://github.com/user-attachments/assets/87cc33f6-eb6e-4816-8a5d-95bbbac86b82" />
 
 # 🌷 Welcome to My Lavender Garden 🌷
 
