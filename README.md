@@ -18,7 +18,7 @@
 <a href="https://github.com/sweta-126-ux">
 <img src="https://img.shields.io/badge/GitHub-ffc6df?style=for-the-badge&logo=github&logoColor=333"/>
 </a>
-<a href="https://linkedin.com/in/sweta-pandey-5b439738/">
+<a href="https://linkedin.com/in/sweta-pandey-5b4397385/">
 <img src="https://img.shields.io/badge/LinkedIn-dcc6ff?style=for-the-badge&logo=linkedin&logoColor=333"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=sweta-126-ux&style=for-the-badge&color=f4a7c5" alt="Profile views"/>
