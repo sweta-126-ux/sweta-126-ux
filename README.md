@@ -1,302 +1,186 @@
-<img width="2000" height="600" alt="Linldin" src="https://github.com/user-attachments/assets/a3313a62-20cc-478b-88de-53a501ff156f" />
+
 <div align="center">
 
-# 🦢 Sweta Pandey
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="170" alt="Coding cat"/>
 
-### 🎮 Aspiring Game Developer • 🤖 AI Explorer • 🌐 Full Stack Developer
+# 🌷 Hiii, I'm Sweta! 🎀
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1000&color=C8A2C8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Garden;Aspiring+Game+Developer;Building+Meaningful+Digital+Experiences;Exploring+AI+and+Data+Science;Future+Indie+Game+Creator"/>
+### `developer in progress` · `creative soul` · `professional bug creator`
 
-🌷 *Learning, Building, Creating & Growing Every Day*
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=23&pause=1000&color=DB8BCB&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97;I+code%2C+create+and+occasionally+panic+%E2%9C%A8;Exploring+AI+%26+Data+Science+%F0%9F%A4%96;Making+games+and+creative+things+%F0%9F%8E%AE;Learning+something+new+every+day+%F0%9F%8C%B7" alt="Typing SVG"/>
+
+<br>
+
+🌸 *A little bit of code, a little bit of creativity, and a lot of curiosity.*
+
+<br>
+
+<a href="https://github.com/sweta-126-ux">
+<img src="https://img.shields.io/badge/GitHub-ffc6df?style=for-the-badge&logo=github&logoColor=333"/>
+</a>
+<a href="https://linkedin.com/in/sweta-pandey-5b439738/">
+<img src="https://img.shields.io/badge/LinkedIn-dcc6ff?style=for-the-badge&logo=linkedin&logoColor=333"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=sweta-126-ux&style=for-the-badge&color=f4a7c5" alt="Profile views"/>
 
 </div>
 
 ---
 
-# 🌸 About Me
+## 🎀 About Me
+
+<img align="right" width="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cute coding animation"/>
+
+- 🎓 BCA student in Data Science & AI
+- 🎮 Interested in Game Development
+- 🤖 Exploring AI and Machine Learning
+- 🌐 Learning Web Development
+- 🎨 Freelance Graphic Designer
+- 🌱 Open Source Contributor
+- 🦋 Always experimenting with something new
+
+<br clear="right"/>
+
+## 🧸 My Little Developer Corner
 
 ```yaml
-Name: Sweta Pandey
+name: Sweta Pandey
+pronouns: She/Her
 
-Education:
-  - BCA Data Science & AI
-
-University:
-  - ICFAI University Jharkhand
-
-Current Focus:
-  - Full Stack Development
+currently_learning:
+  - C++
+  - Data Structures & Algorithms
   - Artificial Intelligence
-  - Open Source
   - Game Development
+
+interests:
+  - Creative Coding
   - UI/UX Design
+  - Open Source
+  - Building Cool Stuff
 
-Mission:
-  - Build impactful products
-  - Create immersive games
-  - Learn cutting-edge technologies
-  - Grow as a developer every day
+personality:
+  - Curious
+  - Creative
+  - Always Learning
 
-Dream Project:
-  - SWAN 🦢
+motto: "Learn. Build. Break. Repeat."
 ```
 
 ---
 
-# 🎮 Developer Profile
-
-| Role | Status |
-|--------|--------|
-| 🎮 Game Developer | Loading... |
-| 🌐 Full Stack Developer | In Progress |
-| 🤖 AI Explorer | Active |
-| 🎨 UI/UX Designer | Growing |
-| 🚀 Open Source Contributor | Active |
-
----
-
-# 🏆 Achievement Board
-
-- 🌟 Open Source Contributor
-- 🎓 BCA DS & AI Student
-- 🦢 Creator of Memory-Based Projects
-- 🌐 Full Stack Learner
-- 🤖 AI Explorer
-- 🎮 Future Indie Game Developer
-- 💼 Internship Hunter
-
----
-
-# 🎮 Game Development Journey
-
-Currently exploring the world of game development and interactive experiences.
-
-### Learning
-
-🎮 Game Design Principles
-
-⚔️ Gameplay Mechanics
-
-🌍 World Building
-
-🎨 Visual Design
-
-🧠 Problem Solving Through Games
-
-✨ Interactive Storytelling
-
-### Future Goals
-
-🚀 Build my first indie game
-
-🚀 Learn Unity
-
-🚀 Learn Godot
-
-🚀 Explore Blender
-
-🚀 Combine AI with Games
-
-🚀 Publish games on Steam & Itch.io
-
----
-
-# 🌷 Featured Projects
-
-## 🦢 Memori
-
-A platform focused on preserving meaningful memories and experiences.
-
----
-
-## 🌙 MeetOnMemory
-
-Interactive memory-sharing experiences built around human connection.
-
----
-
-## 🎵 Rhythma
-
-A health and wellness platform focused on accessibility and user experience.
-
----
-
-## 📦 FlipTrack
-
-Inventory management and tracking application.
-
----
-
-## 🤖 Repo Sage
-
-Repository intelligence and productivity tool.
-
----
-
-## 🐾 Desktop Pet
-
-Interactive desktop companion project.
-
----
-
-## ⭐ Catch The Falling Stars
-
-A fun game project exploring frontend interactivity.
-
----
-
-# 🌸 Tech Stack
+## 💻 My Tech Playground
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,supabase,python,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode,figma&theme=light" alt="Tech stack"/>
 
 </div>
 
 ---
 
-# 🎯 Future Game Dev Stack
+## 🍓 Things I've Been Building
 
 <div align="center">
 
-🎮 Unity
+<a href="https://github.com/sweta-126-ux/desktop-pet-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sweta-126-ux&repo=desktop-pet-app&theme=omni&hide_border=true"/>
+</a>
 
-🎮 Godot
+<a href="https://github.com/sweta-126-ux/Catch-the-falling-stars">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sweta-126-ux&repo=Catch-the-falling-stars&theme=omni&hide_border=true"/>
+</a>
 
-🎨 Blender
+<a href="https://github.com/sweta-126-ux/Rhythma">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sweta-126-ux&repo=Rhythma&theme=omni&hide_border=true"/>
+</a>
 
-🖌️ Aseprite
-
-⚡ C#
-
-🐍 Python
-
-🧠 AI for Games
+<a href="https://github.com/sweta-126-ux/Memori">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sweta-126-ux&repo=Memori&theme=omni&hide_border=true"/>
+</a>
 
 </div>
 
 ---
 
-# 📈 Skill Tree
+## 🌱 Current Quests
 
-```text
-Frontend Development      ████████░░ 80%
-
-React                     ███████░░░ 70%
-
-Node.js                   █████░░░░░ 50%
-
-AI & Data Science         ██████░░░░ 60%
-
-UI/UX Design              █████████░ 90%
-
-Open Source               ███████░░░ 70%
-
-Game Development          ██████░░░░ 60%
-
-Problem Solving           ████████░░ 80%
-```
+- [ ] Get better at C++
+- [ ] Master DSA fundamentals
+- [ ] Explore AI and Machine Learning
+- [ ] Build fun web experiences
+- [ ] Contribute to more open-source projects
+- [ ] Explore game development
+- [ ] Create something that makes people smile
 
 ---
 
-# 🌱 Current Quests
-
-### Main Quest
-
-🦢 Build SWAN
-
-A platform where memories float forever.
-
----
-
-### Side Quests
-
-⚔️ Master React
-
-⚔️ Learn Backend Development
-
-⚔️ Explore AI Projects
-
-⚔️ Contribute to Open Source
-
-⚔️ Build Games
-
-⚔️ Create Better UI Experiences
-
----
-
-# 🔥 Contribution Streak
+## 📊 My GitHub Garden
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sweta-126-ux&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sweta-126-ux&show_icons=true&theme=omni&hide_border=true&border_radius=15" alt="GitHub stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-126-ux&layout=compact&theme=omni&hide_border=true&border_radius=15" alt="Top languages"/>
+
+<br><br>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=sweta-126-ux&theme=omni&hide_border=true&border_radius=15" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-# 🦋 Developer Journey
+## 🎮 A Little More About Me
 
-```text
-🌱 Started Learning Programming
+<details>
+<summary>🍰 Fun Facts</summary>
+<br>
 
-⬇
+- 🎨 I love graphic design and pretty interfaces.
+- 🦋 I'm always curious about new technologies.
+- 🎮 Game development is one of my biggest interests.
+- 💗 I love cute aesthetics and creative projects.
+- 🐛 Debugging is an unexpected side quest.
+- ☕ Coffee and code make a pretty good combination.
 
-🌸 Built Personal Projects
+</details>
 
-⬇
+<details>
+<summary>🌷 My Learning Philosophy</summary>
+<br>
 
-🌐 Started Open Source Contributions
+I don't need to know everything before I start building.
 
-⬇
+I learn by experimenting, making mistakes, breaking things and figuring out how to fix them.
 
-🤖 Exploring AI & Data Science
+One little step at a time! ✨
 
-⬇
+</details>
 
-🦢 Building Memory-Based Experiences
+<details>
+<summary>💌 Let's Connect</summary>
+<br>
 
-⬇
+I'm always happy to connect with fellow learners, developers, designers and open-source enthusiasts!
 
-🎮 Learning Game Development
+- GitHub: [@sweta-126-ux](https://github.com/sweta-126-ux)
+- LinkedIn: [Connect with me](https://linkedin.com/in/sweta-pandey-5b439738/)
 
-⬇
-
-🚀 Future Indie Game Creator
-```
-
----
-
-# ☕ Fun Facts
-
-🌷 I love lavender aesthetics
-
-🎮 I want to become a Game Developer
-
-🦢 I enjoy building meaningful products
-
-🎨 UI/UX design fascinates me
-
-🤖 I love exploring AI technologies
-
-📖 Storytelling and world-building inspire me
-
-✨ I believe great software should feel magical
-
----
-
-# 🌙 Daily Motto
-
-> "Every great game, product, and idea starts with a single line of code."
+</details>
 
 ---
 
 <div align="center">
 
-## 🦋 Thanks For Visiting My GitHub Garden
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="145" alt="Cute waving cat"/>
 
-⭐ If you like my work, consider starring my repositories!
+### 🌸 Thanks for visiting my little GitHub garden!
 
-🌷 🦢 🎮 ✨ 🌙 🦋
+**Stay curious. Stay creative. Keep building.** 💗
+
+`made with curiosity, caffeine & a little bit of chaos`
+
+⭐ If you enjoy something here, don't forget to leave a star!
 
 </div>
